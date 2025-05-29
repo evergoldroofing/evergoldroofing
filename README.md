@@ -1,16 +1,27 @@
 ## Hi there 👋
+# 👷‍♂️ Evergold Roofing Group
 
-<!--
-**evergoldroofing/evergoldroofing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Evergold Roofing – your trusted local roofing partner in **Bristol, CT** and nearby areas.
 
-Here are some ideas to get you started:
+🏠 **Residential & Commercial Roofing Experts**  
+🔧 Roof Repairs | 🏗 Replacements | ⚡ Storm Damage  
+📍 Serving: Bristol, Plainville, New Britain, Southington & more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌐 **Website:** [evergoldroofing.com](https://evergoldroofing.com)  
+📞 **Free Estimates:** Call or message us via website  
+📧 **Email:** info@evergoldroofing.com  
+📸 **Photos & Projects:** Coming soon on this GitHub
+
+---
+
+### 👨‍🔧 Why Choose Us?
+- ✅ Licensed & Insured
+- 🕐 Fast Turnaround
+- ⭐ 5-Star Rated by local homeowners
+- 💬 Friendly, professional team
+
+> “Your roof protects what matters most — we make sure it lasts.”
+
+
